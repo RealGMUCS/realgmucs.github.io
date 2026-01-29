@@ -116,9 +116,7 @@
 - **Giuseppe Ateniese** — Google Faculty Research Award, 2012
 
 
-
-
-## National Science Foundation (NSF) CAREER Awards
+## NSF CAREER Awards
 
 > The Faculty Early Career Development (CAREER) Program is a National Science Foundation activity that offers the NSF's most prestigious awards to early career-development activities of teacher-scholars who integrate research and education within the context of the mission of their organization.
 
@@ -147,7 +145,7 @@
 - **Gurdip Singh** — "Modular Design of Protocols," 1995 (Received at Kansas State University)
 - **Xinyuan (Frank) Wang** — "Malware Immunization and Forensics Based on Another Sense of Self," 2009
 - **Liz White** — "General Support for Dynamic Reconfiguration," 1996
-- **Thema Monroe-White**\* — "Investigating Undergraduate Student Persistence Intentions for a Diverse Data Science Community"
+- **Thema Monroe-White** — "Investigating Undergraduate Student Persistence Intentions for a Diverse Data Science Community"
 - **Jinwei Ye** — "Towards Polarimetric Visual Understanding," 2023
 - **Lap-Fai (Craig) Yu** — "Performance-Guided Synthesis of Virtual Environments for Personalized Training," 2020
 - **Qiang Zeng** — "Towards Secure and Usable IoT Authentication Under Constraints," 2022 (Received at University of South Carolina and Transferred to GMU)
