@@ -1,10 +1,10 @@
-<link rel="stylesheet" type="text/css" href="https://dynaroars.github.io/files/org.css">
+<link rel="stylesheet" type="text/css" href="https://roars.dev/files/org.css">
 
 # GMU Computer Science Stats
     
 > Disclaimer: [ThanhVu Nguyen](https://roars.dev) created this website https://go.gmu.edu/cs-stats with contributions from GMU CS faculty members. The author's views expressed on this website are personal and do not necessarily represent the official views or opinions of GMU or GMU CS."
 
-![Nguyen Engr building](https://dynaroars.github.io/files/nguyen-engr.jpg)
+![Nguyen Engr building](https://roars.dev/files/nguyen-engr.jpg)
 
 # Why CS@GMU ?
 
@@ -165,7 +165,7 @@
   - E.g., Arlington (1), Fairfax (2), Loudon (3), Falls Church (4)
 
 - Naturally Beautiful
-  - stunning natural display of autumn leaf colors (Oct - mid Nov):  [picture](https://dynaroars.github.io/files/autumn.jpeg) taken at GMU Fairfax
+  - stunning natural display of autumn leaf colors (Oct - mid Nov):  [picture](https://roars.dev/files/autumn.jpeg) taken at GMU Fairfax
   - Cherry Blossom right on [campus](https://www.youtube.com/watch?v=gcBYRc23PYM)!(and of course the national one is in DC in the Spring around March)
   - Shenandoah National Park and [many more](https://www.onlyinyourstate.com/dc/natural-attractions-washington-dc/)
 
@@ -229,6 +229,6 @@ https://www.gmu.edu/international/english-language-requirements
 </details>
 
 
-![GMU](https://dynaroars.github.io/files/gmu.jpg)
+![GMU](https://roars.dev/files/gmu.jpg)
 
 
