@@ -32,7 +32,7 @@
   - Research in a [wide range of areas](https://roars.dev/cspicks/?start=2016&end=2026&region=us&q=george+mason)
     - cybersecurity, cryptography, systems and networks, machine learning and data mining, artificial intelligence, robotics, mobile computing, natural language processing, theory, databases, bioinformatics, computer graphics, computer vision, HCI, and software engineering 
   - [Awards](https://realgmucs.github.io/awards)
-    - 9 Fellows (ACM, IEEE, etc)
+    - 10 Fellows (ACM, IEEE, etc)
     - 32 NSF CAREER and Young Investigator Awards
   - Many affiliated faculty from non-CS departments
   - Always [expanding](https://roars.dev/cspicks/?start=2016&end=2026&region=us&q=george+mason) 
