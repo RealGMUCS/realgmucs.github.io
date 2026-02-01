@@ -20,21 +20,22 @@
 - On-campus living for faculty (Masonvale) and daycare for kids
 - Active and helpful Slack channels!
   - questions about NSF?  We have multiple faculty who are/were NSF directors / program managers
-  - interested in Industrial funding?  Our faculty win Amazon/Google/Meta awards every year (see [Awards](https://cs.gmu.edu/about/faculty-awards/))
+  - interested in Industrial funding?  Our faculty win Amazon/Google/Meta awards every year (see [Awards](https://realgmucs.github.io/awards))
 
 # GMU Computer Science
 - *CS Rankings*: [33](https://www.csrankings.org) overall
-   - top [25](https://csrankings.org/#/fromyear/2021/toyear/2026/index?all&us) in the last 5 years
-     - top 20 in mobile computing, software engineering,  security, graphics and visualization.  See ([CSPicks](https://roars.dev/cspicks/?start=2016&end=2026&region=us&q=george+mason) to see faculty and research strengths of GMU).
+  - top [25](https://csrankings.org/#/fromyear/2021/toyear/2026/index?all&us) in the last 5 years. 
+    - top 20 in mobile computing, software engineering,  security, graphics and visualization.  See ([CSPicks](https://roars.dev/cspicks/?start=2016&end=2026&region=us&q=george+mason) to see faculty and research strengths of GMU).
+  - Learn more about the research strengths of GMU CS through [CSPicks](https://roars.dev/cspicks/?start=2016&end=2026&region=us&q=george+mason), which is developed at GMU CS.     
 - *Faculty*: 84 total (36 tenured, 21 tenure-track, 27 term)
-  - 38 *new* faculty (27 tenured/tenure-track, 11 term) during the *last 3 years* (i.e., during [the pandemic](https://cs.gmu.edu/blog/fall22-faculty-retreat/))
-  - Research in a [wide range of areas](https://cs.gmu.edu/research/research-areas/)
+  - 38 *new* faculty (27 tenured/tenure-track, 11 term) during Covid ('21--'23)
+  - Research in a [wide range of areas](https://roars.dev/cspicks/?start=2016&end=2026&region=us&q=george+mason)
     - cybersecurity, cryptography, systems and networks, machine learning and data mining, artificial intelligence, robotics, mobile computing, natural language processing, theory, databases, bioinformatics, computer graphics, computer vision, HCI, and software engineering 
-  - [Awards](https://cs.gmu.edu/about/faculty-awards/)
+  - [Awards](https://realgmucs.github.io/awards)
     - 9 Fellows (ACM, IEEE, etc)
     - 32 NSF CAREER and Young Investigator Awards
-  - Many [affiliated faculty](https://cs.gmu.edu/people/faculty/affiliate-faculty) from non-CS departments
-  - Always [expanding](https://cs.gmu.edu/employment-opportunities/faculty/)
+  - Many affiliated faculty from non-CS departments
+  - Always [expanding](https://roars.dev/cspicks/?start=2016&end=2026&region=us&q=george+mason) 
 
 - *Students*
   - ~200 Ph.D.
@@ -196,8 +197,8 @@
      - completed 335,489+ orders
        - 39,828 coffees delivered.
        - most popular item is Steak ‘N Shake’s The Original Double ‘N Fries (ordered 13,637 times!)
-   - The [Zotero](https://www.zotero.org) reference manager was created at GMU!
-   - VA is the [most patriot state](https://wallethub.com/edu/most-patriotic-states/13680) in the US (based on Military Enlistees/Veterans and Voters)
+   - The [Zotero](https://www.zotero.org) reference manager was created at GMU ([Center for History and New Media](https://rrchnm.org/))!
+   - VA is the [most patriot state](https://wallethub.com/edu/most-patriotic-states/13680) in the US (based on Military Enlistees/Veterans and Voters). It is also designated as the ``Purple Heart State''.
    - VA is known as the **Mother of Presidents** 
      - 8 total: George Washington, Thomas Jefferson, James Madison, James Monroe, William Henry Harrison, John Tyler, Zachary Taylor, and Woodrow Wilson
      - also known as the "Birthplace of a Nation"
@@ -207,7 +208,7 @@
    - Home to the Pentagon, the **[largest office building in the world](https://en.wikipedia.org/wiki/List_of_largest_office_buildings)** (over 6 million square feet of space)
    - #5th in the US for the **wine industry**
      - 300 wineries and an industry worth over $1.37 billion; known for production of Virginia, Cabernet Franc, and Petit Verdot.
-   - Pocahontas, the famous Native American woman who played a key role in early English settlement in Virginia, was born in what is now modern-day Virginia.
+   - **Pocahontas**, the famous Native American woman who played a key role in early English settlement in Virginia, was born in what is now modern-day Virginia.
    - Has the longest continuous roadway in the world:  
      - 469-mile-long Blue Ridge Parkway, which winds through Virginia and North Carolina, is the longest continuous roadway in the world that was designed specifically for scenic driving
    - Appomattox, VA is where General Robert Lee surrendered to General Ulysses Grant, and effectively ending the American Civil War
