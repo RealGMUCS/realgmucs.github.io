@@ -37,7 +37,7 @@
   - Many affiliated faculty from non-CS departments
   - Always [expanding](https://roars.dev/cspicks/?start=2016&end=2026&region=us&q=george+mason) 
 
-- *Students*
+- *Students* (as of 2025)
   - ~200 Ph.D.
   - ~1100 M.S. (this is quite big compared to most other schools, 200 of them are in Software Engineering)
   - ~2600 undergraduate
