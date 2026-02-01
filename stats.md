@@ -39,7 +39,7 @@
 
 - *Students*
   - ~200 Ph.D.
-  - ~100 M.S. (this is quite big compared to most other schools, 200 of them are in Software Engineering)
+  - ~1000 M.S. (this is quite big compared to most other schools, 200 of them are in Software Engineering)
   - ~2200 undergraduate
 
 - *Degrees* 
