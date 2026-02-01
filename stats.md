@@ -2,7 +2,7 @@
 
 # GMU Computer Science Stats
     
-> Disclaimer: [ThanhVu Nguyen](https://roars.dev) created this website https://realgmucs.github.io with contributions from GMU CS faculty members. The author's views expressed on this website are personal and do not necessarily represent the official views or opinions of GMU or GMU CS."
+
 
 ![Nguyen Engr building](https://roars.dev/files/nguyen-engr.jpg)
 
@@ -12,7 +12,7 @@
   - [CSRankings](https://www.csrankings.org): **33** in '26,'25, 32 in '23--'24, 50 in '22, 60 in '21, 70 before 2020.
   - Faculty: double in size in past 3 years (84 total, 38 were new '20--'22)
   - Generous Ph.D. stipend: help recruit top students!
-- [Close to](#Places) funding agencies NSF, DoD, NIH and industries
+- Close to funding agencies NSF, DoD, NIH and industries (see Places below)
   - internships and opportunities for your students (or even yourself, e.g., Amazon Scholar program)
 - Many generous internal (e.g., [IDIA](https://idia.gmu.edu)) and in-state grants (e.g., [CCI](https://cyberinitiative.org/))
 - 1-semester study leave before tenure
