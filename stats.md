@@ -2,7 +2,7 @@
 
 # GMU Computer Science Stats
     
-> Disclaimer: [ThanhVu Nguyen](https://roars.dev) created this website https://go.gmu.edu/cs-stats with contributions from GMU CS faculty members. The author's views expressed on this website are personal and do not necessarily represent the official views or opinions of GMU or GMU CS."
+> Disclaimer: [ThanhVu Nguyen](https://roars.dev) created this website https://realgmucs.github.io with contributions from GMU CS faculty members. The author's views expressed on this website are personal and do not necessarily represent the official views or opinions of GMU or GMU CS."
 
 ![Nguyen Engr building](https://roars.dev/files/nguyen-engr.jpg)
 
