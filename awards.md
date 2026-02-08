@@ -13,21 +13,22 @@
   - IEEE Fellow for contributions to Internet streaming, content delivery, and security, 2024
 - **Jana Kosecka**
   - IEEE Fellow for contributions to robust embodied vision systems and semantic modelling in robotics, 2023
-- **Daniel Menascé**\*
+- **Daniel Menascé**
   - ACM Fellow for fundamental contributions to education and practice of computer networks and performance evaluation, and material contributions to the establishment of a strong computing industry in Brazil, 1997
   - IEEE Fellow for contributions to research and education in performance evaluation of computer systems, 2014
   - IEEE Life Fellow, 2025
-- **Mark J. Pullen**\*
+- **Mark J. Pullen**
   - IEEE Fellow for technical leadership in computing systems and networking
   - ACM Fellow for contributions to information technology in transitioning the Internet from a Federal research project to commercial availability, and development of Internet distance education technologies
 - **David S. Rosenblum**
   - ACM Fellow for contributions to software testing and distributed systems, and for service to the software engineering community, 2010
   - IEEE Fellow for contributions to scalable, distributed component- and event-based software systems, 2006
-- **Harry Wechsler**\*
+- **Harry Wechsler**
   - IEEE Fellow, 1993
   
 
 ## Other Lifetime Achievement Awards
+
 - **Amarda Shehu**
   - Fellow, The American Institute for Medical and Biological Engineering (AIMBE), 2022
 - **Kenneth DeJong**
@@ -64,6 +65,8 @@
   - Most Influential Paper Award, MODELS 2020 - *Modeling presentation layers of web applications for testing*, SoSyM 2010
 - **Andrian Marcus** 
   - Most Influential Paper Award, WCRE 2020 - *On the use of automated text summarization techniques for summarizing source code*, WCRE 2010
+- **Giuseppe Ateniese** 
+  - Jean-Claude Laprie Award, Dependable Computing and Fault Tolerance 2020 - *Scalable and Efficient Provable Data Possession* SecureComm 2008
 - **Jeff Offutt**
   - 30-year Most Influential Paper Award, ISSRE 2019 - *Inter-class mutation operators for Java*, ISSRE 2002
 - **ThanhVu Nguyen** 
@@ -93,30 +96,12 @@
 
 
 
+## Other Research Awards
+- **Giuseppe Ateniese**, IEEE CISTC Technical Recognition Award, 2018
 
 
-## Industrial Awards
 
-- **ThanhVu Nguyen** - NVIDIA Academic Grant Award, 2025
-- **Mingrui Liu** - Cisco Research Award, 2024
-- **ThanhVu Nguyen** - Amazon Research Award (Automated Reasoning), 2023
-- **Jana Kosecka** - Amazon Research Award (Fairness in AI), 2022
-- **Brittany Johnson-Matthews** - Google Research Scholar Award (Software Engineer), 2022
-- **Evgenios Kornaropoulos** - Facebook Research Award (Security), 2022
-- **Bo Han** - Facebook Research Award (Security), 2022
-- **Songqing Chen** - Facebook Research Award (Security), 2022
-- **Kevin Moran**\* - Cisco Advanced Security Research Group Award, 2022
-- **Kevin Moran**\* - Cisco Advanced Security Research Group Award, 2021
-- **Foteini Baldimtsi** - Google Faculty Research Award, 2021
-- **Foteini Baldimtsi** - Facebook Faculty Research Award (Privacy), 2020
-- **Antonios Anastasopoulos** - Google Award for Inclusion, 2020
-- **Foteini Baldimtsi** - IBM Faculty Award, 2016
-- **Grigory Yaroslavtsev** - Facebook Research Award (at Indiana University), 2017
-- **Craig Yu** - Microsoft Azure Award, 2017
-- **Yotam Gingold** - Google Faculty Research Award, 2014
-- **Alex Brodsky** - Dominion Virginia Power, 2013
-- **Giuseppe Ateniese** - IBM Faculty Award, 2012
-- **Giuseppe Ateniese** - Google Faculty Research Award, 2012
+
 
 
 ## NSF CAREER Awards
@@ -179,6 +164,29 @@
 - **Wing Lam** - Outstanding Dissertation Award, ACM SIGSOFT, 2022
 - **Lishan Yang** - Kaivalya Dixit Distinguished Dissertation Award, Standard Performance Evaluation Corporation (SPEC), 2022
 
+
+## Industrial Awards
+
+- **ThanhVu Nguyen** - NVIDIA Academic Grant Award, 2025
+- **Mingrui Liu** - Cisco Research Award, 2024
+- **ThanhVu Nguyen** - Amazon Research Award (Automated Reasoning), 2023
+- **Jana Kosecka** - Amazon Research Award (Fairness in AI), 2022
+- **Brittany Johnson-Matthews** - Google Research Scholar Award (Software Engineer), 2022
+- **Evgenios Kornaropoulos** - Facebook Research Award (Security), 2022
+- **Bo Han** - Facebook Research Award (Security), 2022
+- **Songqing Chen** - Facebook Research Award (Security), 2022
+- **Kevin Moran**\* - Cisco Advanced Security Research Group Award, 2022
+- **Kevin Moran**\* - Cisco Advanced Security Research Group Award, 2021
+- **Foteini Baldimtsi** - Google Faculty Research Award, 2021
+- **Foteini Baldimtsi** - Facebook Faculty Research Award (Privacy), 2020
+- **Antonios Anastasopoulos** - Google Award for Inclusion, 2020
+- **Foteini Baldimtsi** - IBM Faculty Award, 2016
+- **Grigory Yaroslavtsev** - Facebook Research Award (at Indiana University), 2017
+- **Craig Yu** - Microsoft Azure Award, 2017
+- **Yotam Gingold** - Google Faculty Research Award, 2014
+- **Alex Brodsky** - Dominion Virginia Power, 2013
+- **Giuseppe Ateniese** - IBM Faculty Award, 2012
+- **Giuseppe Ateniese** - Google Faculty Research Award, 2012
 
 ## Virginia Awards
 
