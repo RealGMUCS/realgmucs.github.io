@@ -61,6 +61,8 @@
   - Most Influential Paper Award, TSE (50th anniversary) 2025 - *GenProg: A Generic Method for Automated Software Repair*, TSE 2013
 - **Andrian Marcus** 
   - Most Influential Paper Award, ICPC 2023 - *Automatic generation of natural language summaries for Java classes*, ICPC 2013
+- **Kenneth De Jong** and **Sean Luk**
+  - Impact Paper Award, SIGEVO 2022 - *Genetic programming needs better benchmarks*, GECCO 2012
 - **Jeff Offutt**
   - Most Influential Paper Award, MODELS 2020 - *Modeling presentation layers of web applications for testing*, SoSyM 2010
 - **Andrian Marcus** 
