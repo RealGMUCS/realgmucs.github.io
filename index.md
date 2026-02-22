@@ -15,7 +15,6 @@
 <summary>More News</summary>
 
 ### 2025
-
 - **Xuesu Xiao** receiving the 2025 Outstanding Faculty Award from the State Council of Higher Education of Virginia (SCHEV). This is in addition to the Research Excellence Award from the College of Engineering and the Presidential Research Awards. Congrats!
 - Congrats to **Antonios Anastasopoulos** (NLP) and **Evgenios Kornaropoulos** (Security) for receiving the NSF CAREER Awards.
 - Congrats to **Missy Cummings** for being named a Virginia Academy of Science, Engineering and Medicine (VASEM) Member.
