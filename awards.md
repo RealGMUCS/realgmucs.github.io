@@ -168,7 +168,7 @@
 
 
 ## Industrial Awards
-
+- **ThanhVu Nguyen** - Amazon Research Award (Trainium, Reliable AI), 2026
 - **ThanhVu Nguyen** - NVIDIA Academic Grant Award, 2025
 - **Mingrui Liu** - Cisco Research Award, 2024
 - **ThanhVu Nguyen** - Amazon Research Award (Automated Reasoning), 2023
