@@ -9,7 +9,7 @@
 # Why CS@GMU ?
 
 - Reputation, quality, size steadily increase
-  - [CSRankings](https://www.csrankings.org): **33** in '26,'25, 32 in '23--'24, 50 in '22, 60 in '21, 70 before 2020.
+  - [CSRankings](https://www.csrankings.org): **33** in '26,'25, 32 in '23--'24, 50 in '22, 60 in '21, 70 before 2020. See more details through [CSPicks](https://roars.dev/cspicks/?start=2016&end=2026&region=us&q=george+mason)
   - Faculty: double in size in past 3 years (84 total, 38 were new '20--'22)
   - Generous Ph.D. stipend: help recruit top students!
 - Close to funding agencies NSF, DoD, NIH and industries (see Places below)
