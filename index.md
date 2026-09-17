@@ -8,7 +8,7 @@
 
 ## [Faculty and Staff Profiles: detailed profiles of faculty and staff](/people)
 ## [Faculty Awards and Honors](/people/?q=%23awards)
-## [Stats, Rankings, and Other Interesting Info](/stats.md)
+## [Stats, Rankings, and Other Interesting Info](/stats.html)
 
 
 ## Links
